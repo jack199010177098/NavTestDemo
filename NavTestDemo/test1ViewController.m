@@ -17,7 +17,7 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
-//    self.navigationController.navigationBar.hidden=YES;asdf
+    self.navigationController.navigationBar.hidden=YES;
 
 }
 - (void)viewDidLoad {
